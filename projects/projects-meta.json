@@ -1,3 +1,11 @@
 {
-  "projects": []
+  "projects": [
+    {
+      "id": 0,
+      "name": "First now",
+      "projectType": "Software",
+      "active": true,
+      "revision": "rev_0"
+    }
+  ]
 }
