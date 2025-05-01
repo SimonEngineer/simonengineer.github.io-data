@@ -1,0 +1,11 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "name": "test",
+      "projectType": "Software",
+      "active": true,
+      "revision": "rev_0"
+    }
+  ]
+}
