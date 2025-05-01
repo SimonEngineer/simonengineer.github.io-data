@@ -13,6 +13,13 @@
       "projectType": "Software",
       "active": true,
       "revision": "rev_0"
+    },
+    {
+      "id": 2,
+      "name": "3proj",
+      "projectType": "Software",
+      "active": true,
+      "revision": "rev_0"
     }
   ]
 }
