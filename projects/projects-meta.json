@@ -34,6 +34,13 @@
       "projectType": "Software",
       "active": true,
       "revision": "rev_0"
+    },
+    {
+      "id": 5,
+      "name": "oggaa",
+      "projectType": "Software",
+      "active": true,
+      "revision": "rev_0"
     }
   ]
 }
